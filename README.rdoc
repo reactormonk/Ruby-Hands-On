@@ -1,0 +1,15 @@
+= Ruby hands on
+
+== Before
+
+http://tryruby.sophrinix.com
+
+    $ gem install baretest
+
+== While
+
+Insert your code into lib/<file> and run baretest in the hands-on root to check your status
+
+== After
+
+Have fun coding Ruby!
